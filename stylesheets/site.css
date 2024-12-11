@@ -1,0 +1,75 @@
+h2{
+    color:rgb(78, 103, 196);
+    text-decoration: overline;
+}
+
+h1, h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p, li{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#banner{
+    background-color:rgb(219, 124, 40);
+    padding: 10px;
+    text-align:center;
+}
+
+#banner a{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nav{
+    background-color:cadetblue;
+    padding: 10px;
+    text-align:center;
+}
+
+#nav a:hover{
+    background-color:black ;
+}
+
+
+#nav a{
+    color: aliceblue;
+    text-decoration: dashed;
+    font-size: large;
+    margin-right: 8px;
+}
+
+#footer{
+      background-color:darkkhaki;
+      min-height: 30px;
+      text-align:center;
+      padding: 20px;
+      padding-bottom: 10px;
+}
+
+
+#main, main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+article{
+    margin-bottom: 50px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.differentlookingtext{
+    font-size:larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.weirdcolor{
+    color: darkmagenta;
+}
